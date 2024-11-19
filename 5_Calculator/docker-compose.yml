@@ -2,7 +2,7 @@ version: '3.7'
 
 services:     
   mariadb:
-    container_name: 5web-mariadb
+    container_name: 5_web-mariadb
     hostname: mariadb
     image: mariadb:10.5
     restart: always
@@ -12,7 +12,7 @@ services:
       MARIADB_USER: webdb
       MARIADB_PASSWORD: password
     ports:
-      - "0.0.0.0:5055:3306"
+      - "0.0.0.0:5025:3306"
       
   web:
     container_name: 5_Calculator
