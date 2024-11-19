@@ -45,14 +45,14 @@ namespace Calculator.Controllers
             }
             ViewBag.Result = result;
 
-           // DataInputVariant dataInputVariant = new DataInputVariant();
-           // dataInputVariant.Operand_1 = num1.ToString();
-           // dataInputVariant.Operand_2 = num2.ToString();
-           // dataInputVariant.Type_operation = operation.ToString();
-           // dataInputVariant.Result = result.ToString();
+            DataInputVariant dataInputVariant = new DataInputVariant();
+            dataInputVariant.Operand_1 = num1.ToString();
+            dataInputVariant.Operand_2 = num2.ToString();
+            dataInputVariant.Type_operation = operation.ToString();
+            dataInputVariant.Result = result.ToString();
 
-           // _context.DataInputVariants.Add(dataInputVariant);
-            //_context.SaveChanges();
+            _context.DataInputVariants.Add(dataInputVariant);
+            _context.SaveChanges();
 
             return View("Index");
         }
