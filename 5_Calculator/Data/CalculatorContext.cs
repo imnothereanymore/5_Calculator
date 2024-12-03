@@ -1,5 +1,4 @@
-﻿
-using _5_Calculator.Data;
+﻿using Calculator.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace Calculator.Data
@@ -18,5 +17,3 @@ namespace Calculator.Data
         }
     }
 }
-
-
