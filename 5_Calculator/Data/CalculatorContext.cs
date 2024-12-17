@@ -1,8 +1,7 @@
-﻿
-using _5_Calculator.Data;
+﻿using _5_Calculator.Data;
 using Microsoft.EntityFrameworkCore;
 
-namespace Calculator.Data
+namespace _5_Calculator.Data
 {
     public class CalculatorContext : DbContext
     {
@@ -18,5 +17,3 @@ namespace Calculator.Data
         }
     }
 }
-
-

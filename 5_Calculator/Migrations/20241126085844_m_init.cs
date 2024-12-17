@@ -18,13 +18,13 @@ namespace _5_Calculator.Migrations
                 {
                     ID_DataInputVariant = table.Column<int>(type: "int", nullable: false)
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
-                    Operand_1 = table.Column<string>(type: "varchar(128)", nullable: true)
+                    Operand_1 = table.Column<double>(type: "double", nullable: true)
                         .Annotation("MySql:CharSet", "utf8mb4"),
-                    Operand_2 = table.Column<string>(type: "varchar(128)", nullable: true)
+                    Operand_2 = table.Column<double>(type: "double", nullable: true)
                         .Annotation("MySql:CharSet", "utf8mb4"),
-                    Type_operation = table.Column<string>(type: "varchar(128)", nullable: true)
+                    Type_operation = table.Column<int>(type: "int", nullable: true)
                         .Annotation("MySql:CharSet", "utf8mb4"),
-                    Result = table.Column<string>(type: "varchar(128)", nullable: true)
+                    Result = table.Column<double>(type: "double", nullable: true)
                         .Annotation("MySql:CharSet", "utf8mb4")
                 },
                 constraints: table =>
