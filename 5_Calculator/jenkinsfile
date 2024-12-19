@@ -18,5 +18,10 @@ pipeline {
                 sh 'docker compose up -d'
             }
         }
+        stage('Docker containers review') {
+            steps {
+                sh 'docker ps -a'
+            }
+        }
     }
 }
