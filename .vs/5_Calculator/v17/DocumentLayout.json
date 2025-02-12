@@ -3,27 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\dima\\source\\repos\\5_Calculator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|c:\\users\\dima\\source\\repos\\5_calculator\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|solutionrelative:controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|c:\\users\\dima\\source\\repos\\5_calculator\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|c:\\users\\dima\\source\\repos\\5_calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|c:\\users\\dima\\source\\repos\\5_calculator\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|C:\\Users\\dima\\source\\repos\\5_Calculator\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|c:\\users\\dima\\source\\repos\\5_calculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|C:\\Users\\dima\\source\\repos\\5_Calculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|c:\\users\\dima\\source\\repos\\5_calculator\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|C:\\Users\\dima\\source\\repos\\5_Calculator\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|c:\\users\\dima\\source\\repos\\5_calculator\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|C:\\Users\\dima\\source\\repos\\5_Calculator\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|c:\\users\\dima\\source\\repos\\5_calculator\\jenkinsfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|C:\\Users\\dima\\source\\repos\\5_Calculator\\jenkinsfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A23B4CC9-57E0-4976-91A2-E3870C531C69}|5_Calculator.csproj|solutionrelative:jenkinsfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
@@ -38,86 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\dima\\source\\repos\\5_Calculator\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\dima\\source\\repos\\5_Calculator\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-12T08:42:07.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dima\\source\\repos\\5_Calculator\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\dima\\source\\repos\\5_Calculator\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAD0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T08:39:32.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\dima\\source\\repos\\5_Calculator\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\dima\\source\\repos\\5_Calculator\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-12T08:23:17.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dima\\source\\repos\\5_Calculator\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\dima\\source\\repos\\5_Calculator\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-12T08:23:11.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\dima\\source\\repos\\5_Calculator\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Users\\dima\\source\\repos\\5_Calculator\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-02-12T08:23:08.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Jenkinsfile",
-              "DocumentMoniker": "C:\\Users\\dima\\source\\repos\\5_Calculator\\Jenkinsfile",
-              "RelativeDocumentMoniker": "Jenkinsfile",
-              "ToolTip": "C:\\Users\\dima\\source\\repos\\5_Calculator\\Jenkinsfile",
-              "RelativeToolTip": "Jenkinsfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-12T07:56:12.77Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -128,7 +58,110 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dima\\source\\repos\\5_Calculator\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\dima\\source\\repos\\5_Calculator\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:52:59.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\dima\\source\\repos\\5_Calculator\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\dima\\source\\repos\\5_Calculator\\Controllers\\CalculatorController.cs*",
+              "RelativeToolTip": "Controllers\\CalculatorController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:51:48.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dima\\source\\repos\\5_Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dima\\source\\repos\\5_Calculator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:39:32.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\dima\\source\\repos\\5_Calculator\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\dima\\source\\repos\\5_Calculator\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-12T08:42:07.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\dima\\source\\repos\\5_Calculator\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\dima\\source\\repos\\5_Calculator\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T08:23:17.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dima\\source\\repos\\5_Calculator\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dima\\source\\repos\\5_Calculator\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T08:23:11.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\dima\\source\\repos\\5_Calculator\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\dima\\source\\repos\\5_Calculator\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-12T08:23:08.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Jenkinsfile",
+              "DocumentMoniker": "C:\\Users\\dima\\source\\repos\\5_Calculator\\Jenkinsfile",
+              "RelativeDocumentMoniker": "Jenkinsfile",
+              "ToolTip": "C:\\Users\\dima\\source\\repos\\5_Calculator\\Jenkinsfile",
+              "RelativeToolTip": "Jenkinsfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-12T07:56:12.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Jenkinsfile",
               "DocumentMoniker": "C:\\Users\\dima\\source\\repos\\5_Calculator\\5_Calculator\\Jenkinsfile",
               "RelativeDocumentMoniker": "5_Calculator\\Jenkinsfile",
@@ -136,12 +169,7 @@
               "RelativeToolTip": "5_Calculator\\Jenkinsfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-19T07:26:09.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "WhenOpened": "2024-12-19T07:26:09.475Z"
             }
           ]
         },
